@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hewwo ⸜(｡˃ ᵕ ˂ )⸝ 💕
+### ⛩️ I'm interested in front-end web game development (Newbie)
+Sometimes I think but then I forget (real ᗜˬᗜ)
+<br><br>
+![fumo-touhou](fumo-touhou.gif)
+
 
 <!--
 **vrceao/vrceao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
